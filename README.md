@@ -51,5 +51,5 @@ Raspberry Pi Pico SDK
 Extensões do VS Code para RP2040
 ▶️ Compile e execute
 
-LINK DO VÍDEO:
+LINK DO VÍDEO: https://drive.google.com/drive/folders/14WWI5qfgDj1-iI2Ye6Z3oNoJKRXX5DS8?usp=sharing
 
